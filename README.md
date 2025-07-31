@@ -1,10 +1,12 @@
-## Hi there 👋
-![What I Learn](https://skillicons.dev/icons?i=php,laravel,npm,js,java,tailwind,python,mysql)
+## 👋 Hello, I'm Dewa Maulana!
 
-## My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddxzzyy&layout=compact&theme=github_dark)
+### 💡 What I Learn
+![Skills](https://skillicons.dev/icons?i=php,laravel,js,java,python,npm,tailwind,mysql)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ddxzzyy&show_icons=true&theme=github_dark)
+### 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddxzzyy&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddxzzyy&show_icons=true&theme=radical)
+
 
 
 <!--

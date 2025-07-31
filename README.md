@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Dewa Maulana!
 
 ### 💡 What I Learn
-![Skills](https://skillicons.dev/icons?i=php,laravel,js,java,python,npm,tailwind,mysql)
+![Skills](https://skillicons.dev/icons?i=php,laravel,js,java,python,npm,tailwind,mysql,figma)
 
 ### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddxzzyy&layout=compact&theme=radical)

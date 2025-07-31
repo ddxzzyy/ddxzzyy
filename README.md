@@ -1,4 +1,11 @@
 ## Hi there 👋
+![What I Learn](https://skillicons.dev/icons?i=php,laravel,npm,js,java,tailwind,python,mysql)
+
+## My Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddxzzyy&layout=compact&theme=github_dark)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ddxzzyy&show_icons=true&theme=github_dark)
+
 
 <!--
 **ddxzzyy/ddxzzyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

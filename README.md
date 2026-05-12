@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dewa Maulana</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Laravel+Developer;UI%2FUX+Enthusiast;Building+Modern+Web+Experience" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frondend+Developer;Laravel+Developer;UI%2FUX+Enthusiast;Building+Modern+Web+Experience" />
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ Modern rehabilitation website built using:
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   
-  <a href="https://instagram.com/USERNAME">
+  <a href="https://instagram.com/dewzyz">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>

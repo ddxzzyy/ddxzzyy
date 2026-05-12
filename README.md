@@ -38,20 +38,12 @@
 ## 🌱 Currently Learning
 
 - Advanced Laravel Architecture
-- Next.js & Framer Motion
+- Next.js & React Ecosystem
 - Backend API Development
 - Modern UI/UX Design
 
 ---
 
-## 🏆 Featured Project
-
-### 🔹 Landing Page LRRPN
-Modern rehabilitation website built using:
-- Next.js
-- TailwindCSS
-- Framer Motion
-- Lenis Smooth Scroll
 
 ---
 

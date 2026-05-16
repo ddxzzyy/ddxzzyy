@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dewa Maulana Riswanto</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Laravel+Developer;UI%2FUX+Designer;Building+Modern+Web+Experience" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frondend+Developer;Laravel+Developer;UI%2FUX+Designer;Building+Modern+Web+Experience" />
 </p>
 
 <p align="center">
